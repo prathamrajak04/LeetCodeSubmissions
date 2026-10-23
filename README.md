@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Recursion
 |  |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
