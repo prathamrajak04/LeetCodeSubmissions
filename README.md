@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0704-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
