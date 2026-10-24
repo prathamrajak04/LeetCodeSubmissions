@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
