@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
