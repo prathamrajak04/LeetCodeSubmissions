@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
