@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1550-three-consecutive-odds](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
