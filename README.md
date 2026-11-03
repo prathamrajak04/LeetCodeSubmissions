@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
