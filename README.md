@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0704-binary-search) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1486-xor-operation-in-an-array) |
 ## Polygons
 |  |
