@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0709-to-lower-case) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
