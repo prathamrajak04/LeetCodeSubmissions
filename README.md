@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0704-binary-search) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 ## Design
 |  |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
