@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0735-asteroid-collision) |
 | [2974-minimum-number-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
