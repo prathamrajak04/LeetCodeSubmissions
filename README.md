@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/prathamrajak04/LeetCodeSubmissions/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
